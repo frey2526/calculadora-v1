@@ -1,0 +1,6 @@
+# Archivos generados por Python
+__pycache__/
+*.pyc
+
+# Historial de operaciones (datos generados, no parte del código)
+historial.txt
